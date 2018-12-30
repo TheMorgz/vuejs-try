@@ -2,7 +2,7 @@
 Messing around with VueJS. Learning purposes.
 
 ### Mess around locally
-- Git clone this on to a location on your machine.
+- Git clone this repository on to a location on your machine.
 - cd into the **vue-js** directory you've just cloned.
 - then run the following (Assuming you're on a Unix environment):
  
