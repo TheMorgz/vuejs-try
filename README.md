@@ -11,5 +11,6 @@ $ php -S localhost:8080
 ```
 
 - This should spin up a local PHP server, on port 8080, where you will see the results of the code in this repo.
+- You're not limited to port 8080. Feel free to use any other open port.
 
 ### NB: This is strictly messing around. Gotta learn 🙈
